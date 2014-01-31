@@ -13,4 +13,4 @@ a:link, a:visited {color: black;}
 a:hover, a:active {text-decoration: underline; color: red;}
 ul { margin:0px; padding:0; list-style:none; }
 li { margin-left:20px; margin-bottom:20px; padding:0;  }
-#footer { color: lightgrey; font-style: arial; text-align: center; font-family: Arial; font-size: 14pt; padding-top: 5pt; }
+#footer { color: lightgrey; text-align: center; font-family: Arial; font-size: 14pt; padding-top: 5pt; }
